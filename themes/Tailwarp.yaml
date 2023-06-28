@@ -1,0 +1,28 @@
+accent: "#38bdf8"
+background: "#0f172a"
+
+background_image:
+  path: tailwarp-bg.jpg
+
+terminal_colors:
+  bright:
+    cyan: "#e5e6fe"
+    red: "#ffc4bd"
+    white: "#feffff"
+    blue: "#c1e3fe"
+    green: "#d6fcb9"
+    magenta: "#ffb1fe"
+    yellow: "#fefdd5"
+    black: "#8e8e8e"
+  normal:
+    green: "#84cc16"
+    yellow: "#eab308"
+    cyan: "#cffafe"
+    blue: "#3b82f6"
+    white: "#e2e8f0"
+    black: "#0f172a"
+    red: "#ef4444"
+    magenta: "#d946ef"
+foreground: "#e2e8f0"
+details: "darker"
+
